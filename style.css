@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+body{
+    font-family: 'Roboto Condensed', Roboto;
+    text-align: center;
+    background-image: url('./Background-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+div{
+    background-color: darkgray;
+    margin-top: 50px;
+    opacity: 0.8;
+    margin-bottom: 200px;
+    margin-left: 0px;
+}
+
+
+h1{
+    font-size: 40px;
+}
+
+
+h3{
+    font: size 30px;
+    color: darkgreen
+}
+
+
+label{
+    font: size 25px;
+    color: darkblue;
+}
+
+
+span{
+    color: darkmagenta;
+    font-size: 25px;
+}
